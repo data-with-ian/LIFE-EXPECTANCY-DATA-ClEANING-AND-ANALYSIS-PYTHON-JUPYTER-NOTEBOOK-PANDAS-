@@ -11,6 +11,7 @@ This project I delved into the intricate process of data cleaning and explorator
 3.	[Data Preparation](#data-preparation)
 4.	[Exploratory Data Analysis](#exploratory-data-analysis)
 5.	[Insights](#insights)
+6.	[Recommendations](#recommendations)
    
 ### Data Source
 
@@ -170,3 +171,29 @@ o	Schooling: Average of 11.99 years.
 o	GDP: Average of $7483.16.
 
 o	Population: Average of 12.75 million, with a maximum of 1.29 billion.
+
+### Recommendations
+
+To increase life expectancy in the countries involved, I developed the following recommendations based on the collected insights:
+
+##### 1. Increase Health Expenditure:
+   Optimize and increase health spending, focusing on primary care and preventive services.
+
+##### 2. Enhance Vaccination Programs:
+   Improve vaccination coverage through awareness campaigns and mobile units.
+
+##### 3. Address Malnutrition:
+Invest in nutritional programs and public health campaigns to combat child malnutrition.
+
+##### 4. Expand Education: 
+Increase access to education, especially for disadvantaged groups, and integrate health education.
+
+##### 5. Stimulate Economic Growth: 
+Implement policies to boost economic growth and reduce income inequality.
+
+##### 6. Reduce Mortality Rates: 
+Improve maternal and child health services and promote healthy lifestyles for adults.
+
+##### 7. Combat HIV/AIDS: 
+Enhance awareness, prevention, and support services for individuals affected by HIV/AIDS.
+
