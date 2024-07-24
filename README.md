@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project I delved into the intricate process of data cleaning and exploratory data analysis (EDA) using the powerful Pandas library within a Python Jupyter Notebook environment. The primary objective was to prepare and analyze a life expectancy dataset to uncover insights and trends related to global health metrics. Life expectancy is a statistical measure indicating the average number of years a person can expect to live, based on current age and mortality rates. It is a crucial indicator of the overall health and well-being of a population.
+This project was inspired by my background as a BLS (Basic Life Support) responder and my passion for health. Delving into the intricate process of data cleaning and exploratory data analysis (EDA), I utilized the powerful Pandas library within a Python Jupyter Notebook environment. The primary objective was to prepare and analyze a life expectancy dataset to uncover insights and trends related to global health metrics. Life expectancy is a vital statistical measure indicating the average number of years a person can expect to live, based on current age and mortality rates. It serves as a crucial indicator of the overall health and well-being of a population, reflecting factors such as healthcare access, socioeconomic conditions, and public health initiatives.
 
 ### Table of Contents
 
