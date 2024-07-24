@@ -1,4 +1,4 @@
-# Life Expectancy Data Cleaning and Analysis – Python Jupyter Notebook (Pandas) 
+# LIFE EXPECTANCY DATA CLEANING AND ANALYSIS– PYTHON JUPYTER NOTEBOOK (Pandas)  
 
 ### Project Overview
 
